@@ -1,4 +1,4 @@
-#  Claro, aquí tienes el modelo de la política de privacidad para tu aplicación que utiliza el flash de la cámara, en formato Markdown:
+# Claro, aquí tienes el modelo de la política de privacidad para tu aplicación que utiliza el flash de la cámara, en formato Markdown:
 
 # Política de Privacidad para LinternaCR
 # Última actualización: 19/04/2024
