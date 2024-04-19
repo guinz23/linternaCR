@@ -1,10 +1,9 @@
-# 
 #  Claro, aquí tienes el modelo de la política de privacidad para tu aplicación que utiliza el flash de la cámara, en formato Markdown:
 
-# Política de Privacidad para [Nombre de la App]
-# Última actualización: [Fecha]
+# Política de Privacidad para LinternaCR
+# Última actualización: 19/04/2024
 
-# Bienvenido a [Nombre de la App], una aplicación desarrollada por [Nombre de la Empresa], ubicada en [Dirección Completa]. Esta política de privacidad tiene como objetivo informarte sobre cómo recopilamos, usamos, protegemos y compartimos información personal que obtenemos de los usuarios de nuestra aplicación.
+# Bienvenido a LinternaCR, una aplicación desarrollada por  CRsoluciones, ubicada en CostaRica,Alajuela. Esta política de privacidad tiene como objetivo informarte sobre cómo recopilamos, usamos, protegemos y compartimos información personal que obtenemos de los usuarios de nuestra aplicación.
 
 # 1. Información que Recopilamos
 # a. Datos personales
@@ -34,6 +33,5 @@
 # 6. Contacto
 # Si tienes alguna pregunta sobre esta Política de Privacidad, por favor contáctanos en:
 
-# Email: [email@empresa.com]
+# Email: emailtest283@gmail.com
 
-# Dirección postal: [Dirección Completa]
